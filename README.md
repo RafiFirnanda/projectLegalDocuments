@@ -2,8 +2,8 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.12-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Dataset Size](https://img.shields.io/badge/documents-51-orange.svg)](https://github.com/yourusername/legal-documents)
-[![Format](https://img.shields.io/badge/format-Excel%20%7C%20TXT-yellow.svg)](https://github.com/yourusername/legal-documents)
+[![Dataset Size](https://img.shields.io/badge/documents-51-orange.svg)](https://github.com/RafiFirnanda/projectLegalDocuments)
+[![Format](https://img.shields.io/badge/format-Excel%20%7C%20TXT-yellow.svg)](https://github.com/RafiFirnanda/projectLegalDocuments)
 
 ## About The Project
 
@@ -23,10 +23,10 @@ To get started with this project, you'll need Python 3.12 or higher installed on
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/legal-documents.git
+git clone https://github.com/RafiFirnanda/projectLegalDocuments.git
 
 # Navigate to the project directory
-cd legal-documents
+cd projectLegalDocuments
 
 # Install required dependencies
 pip install pandas pathlib
@@ -146,8 +146,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Project Maintainer - your.email@example.com
 
-Project Link: [https://github.com/yourusername/legal-documents](https://github.com/yourusername/legal-documents)
+Project Link: [https://github.com/RafiFirnanda/projectLegalDocuments](https://github.com/RafiFirnanda/projectLegalDocuments)
 
 ---
 
-Made with ❤️ for legal document processing
+Made with ❤️ by Rafi Firnanda
